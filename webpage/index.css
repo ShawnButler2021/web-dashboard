@@ -1,0 +1,32 @@
+html {
+	background: url('background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body {
+	text-align: center;
+}
+div {padding-left: 40%}
+p {
+	width: 20vw;
+	background: white;
+	border-radius: 5px;
+	font-size: 2rem;
+}
+
+img.graph {
+	padding: 0;
+	margin: 0;
+	display: inline-block;
+	width: 20vw;
+	height: 30vh;
+}
+div.graph-wrapper {
+	background: white;
+	border-radius: 5px;
+	border: solid black 3px;
+	padding: 1%;
+	margin: 50px;
+	display: inline-block;
+	text-align: center;
+}
